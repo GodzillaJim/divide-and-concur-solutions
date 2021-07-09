@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6e34c45-0815-44be-9ca0-b6b352c6dfae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z24l46ZimR3ftpVRHyHLAbA8ul" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/3ocvzK1eSVqHL8ytXjlavA_ea657e7719194b45bacec19f8307acb4_course1_1911111711/week4_divide_and_conquer/3_improving_quicksort/Sorting.java" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager" selected="Application.Closest">
+    <configuration name="Closest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Closest" />
+      <module name="Divide_and_Conquer.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Inversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inversions" />
+      <module name="Divide_and_Conquer.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointsAndSegments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PointsAndSegments" />
+      <module name="Divide_and_Conquer.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSortThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSortThree" />
+      <module name="Divide_and_Conquer.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting" />
+      <module name="Divide_and_Conquer.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.QuickSortThree" />
+      <item itemvalue="Application.Sorting" />
+      <item itemvalue="Application.Inversions" />
+      <item itemvalue="Application.PointsAndSegments" />
+      <item itemvalue="Application.Closest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Closest" />
+        <item itemvalue="Application.PointsAndSegments" />
+        <item itemvalue="Application.Inversions" />
+        <item itemvalue="Application.Sorting" />
+        <item itemvalue="Application.QuickSortThree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6e34c45-0815-44be-9ca0-b6b352c6dfae" name="Default Changelist" comment="" />
+      <created>1584024003207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584024003207</updated>
+      <workItem from="1584024022801" duration="1024000" />
+      <workItem from="1584051714850" duration="669000" />
+      <workItem from="1584323442021" duration="36000" />
+      <workItem from="1587068249019" duration="1866000" />
+      <workItem from="1587219003819" duration="1815000" />
+      <workItem from="1587392123436" duration="101000" />
+      <workItem from="1587467085730" duration="14006000" />
+      <workItem from="1587504475795" duration="12854000" />
+      <workItem from="1587983850041" duration="644000" />
+      <workItem from="1587991049547" duration="12173000" />
+      <workItem from="1588062018476" duration="16048000" />
+      <workItem from="1588088107634" duration="2000000" />
+      <workItem from="1588122294647" duration="3376000" />
+      <workItem from="1588202605691" duration="6311000" />
+      <workItem from="1588380362581" duration="161000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587469480757">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1587469480757" />
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1588071610896">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1588071610896" />
+    <state x="763" y="236" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588208448050">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="763" y="236" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1588208448050" />
+    <state x="806" y="100" width="460" height="568" key="DiffContextDialog" timestamp="1588065937779">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="806" y="100" width="460" height="568" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1588065937779" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1588208884112">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1588208884112" />
+    <state width="662" height="312" key="GridCell.Tab.0.bottom" timestamp="1588209378044">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="662" height="312" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588209378044" />
+    <state width="662" height="312" key="GridCell.Tab.0.center" timestamp="1588209378043">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="662" height="312" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1588209378043" />
+    <state width="662" height="312" key="GridCell.Tab.0.left" timestamp="1588209378042">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="662" height="312" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1588209378042" />
+    <state width="662" height="312" key="GridCell.Tab.0.right" timestamp="1588209378043">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="662" height="312" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1588209378043" />
+    <state width="1323" height="234" key="GridCell.Tab.1.bottom" timestamp="1588078044965">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="234" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588078044965" />
+    <state width="1323" height="234" key="GridCell.Tab.1.center" timestamp="1588078044965">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="234" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1588078044965" />
+    <state width="1323" height="234" key="GridCell.Tab.1.left" timestamp="1588078044965">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="234" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1588078044965" />
+    <state width="1323" height="234" key="GridCell.Tab.1.right" timestamp="1588078044965">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="234" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1588078044965" />
+    <state x="391" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1588380397882">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="391" y="212" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1588380397882" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1587519172631">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1587519172631" />
+    <state x="716" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1588088946957">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="716" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1588088946957" />
+  </component>
+</project>
